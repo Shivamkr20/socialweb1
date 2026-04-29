@@ -1,2 +1,2 @@
 # socialweb
-<p> A web where your all scoial handlings at present</p>
+<p> A web where your all scoial handlings are present</p>
